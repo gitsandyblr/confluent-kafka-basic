@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Liquidity-Management-Service/account-balance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Liquidity-Management-Service/account-broker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../PaySlipGen" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../address-book-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../addressbook" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../addressbook-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../myob-payslip-generator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-boot-with-kafka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ssl-handshake-example/producer-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../stock-time-series-backend-application" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="44" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+</project>
